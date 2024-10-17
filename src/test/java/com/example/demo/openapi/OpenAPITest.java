@@ -19,7 +19,7 @@ public class OpenAPITest {
 	// 기상청 동네예보 서비스 API 호출
 	// 응답 데이터 클래스 변환 후 "결과 코드/결과 메시지/전체 결과 수" 출력
 	
-	String key = "fFHyCnW6Ajh7TVluu9LXHRRTmcd2MmOWhtntfo%2BOORbvL7F16U9Il%2Bp%2BSP1lOskAQr8mM0sINJsHan8083WTDA%3D%3D";
+	String key = "개인 인증키";
 	String dataType = "JSON";
 	String regID = "11B20201";
 	
